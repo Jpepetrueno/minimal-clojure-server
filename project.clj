@@ -6,5 +6,5 @@
   :dependencies [[org.clojure/clojure "1.11.1"]
                  [ring/ring-core "1.9.1"]
                  [ring/ring-jetty-adapter "1.9.1"]
-                 [aleph "0.8.1"]]
+                 [compojure "1.7.1"]]
   :repl-options {:init-ns web-dev.core})
